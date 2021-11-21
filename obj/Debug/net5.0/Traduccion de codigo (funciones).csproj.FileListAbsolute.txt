@@ -1,0 +1,16 @@
+C:\Users\alvar\OneDrive\Escritorio\Universidad Latina\MATERIAS CUATRIMESTRE 6\PROGRAMACION V\ProgV\Traduccion de codigo (funciones)\bin\Debug\net5.0\Traduccion de codigo (funciones).exe
+C:\Users\alvar\OneDrive\Escritorio\Universidad Latina\MATERIAS CUATRIMESTRE 6\PROGRAMACION V\ProgV\Traduccion de codigo (funciones)\bin\Debug\net5.0\Traduccion de codigo (funciones).deps.json
+C:\Users\alvar\OneDrive\Escritorio\Universidad Latina\MATERIAS CUATRIMESTRE 6\PROGRAMACION V\ProgV\Traduccion de codigo (funciones)\bin\Debug\net5.0\Traduccion de codigo (funciones).runtimeconfig.json
+C:\Users\alvar\OneDrive\Escritorio\Universidad Latina\MATERIAS CUATRIMESTRE 6\PROGRAMACION V\ProgV\Traduccion de codigo (funciones)\bin\Debug\net5.0\Traduccion de codigo (funciones).runtimeconfig.dev.json
+C:\Users\alvar\OneDrive\Escritorio\Universidad Latina\MATERIAS CUATRIMESTRE 6\PROGRAMACION V\ProgV\Traduccion de codigo (funciones)\bin\Debug\net5.0\Traduccion de codigo (funciones).dll
+C:\Users\alvar\OneDrive\Escritorio\Universidad Latina\MATERIAS CUATRIMESTRE 6\PROGRAMACION V\ProgV\Traduccion de codigo (funciones)\bin\Debug\net5.0\ref\Traduccion de codigo (funciones).dll
+C:\Users\alvar\OneDrive\Escritorio\Universidad Latina\MATERIAS CUATRIMESTRE 6\PROGRAMACION V\ProgV\Traduccion de codigo (funciones)\bin\Debug\net5.0\Traduccion de codigo (funciones).pdb
+C:\Users\alvar\OneDrive\Escritorio\Universidad Latina\MATERIAS CUATRIMESTRE 6\PROGRAMACION V\ProgV\Traduccion de codigo (funciones)\obj\Debug\net5.0\Traduccion de codigo (funciones).csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Escritorio\Universidad Latina\MATERIAS CUATRIMESTRE 6\PROGRAMACION V\ProgV\Traduccion de codigo (funciones)\obj\Debug\net5.0\Traduccion de codigo (funciones).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Escritorio\Universidad Latina\MATERIAS CUATRIMESTRE 6\PROGRAMACION V\ProgV\Traduccion de codigo (funciones)\obj\Debug\net5.0\Traduccion de codigo (funciones).AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Universidad Latina\MATERIAS CUATRIMESTRE 6\PROGRAMACION V\ProgV\Traduccion de codigo (funciones)\obj\Debug\net5.0\Traduccion de codigo (funciones).AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Escritorio\Universidad Latina\MATERIAS CUATRIMESTRE 6\PROGRAMACION V\ProgV\Traduccion de codigo (funciones)\obj\Debug\net5.0\Traduccion de codigo (funciones).csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Universidad Latina\MATERIAS CUATRIMESTRE 6\PROGRAMACION V\ProgV\Traduccion de codigo (funciones)\obj\Debug\net5.0\Traduccion de codigo (funciones).dll
+C:\Users\alvar\OneDrive\Escritorio\Universidad Latina\MATERIAS CUATRIMESTRE 6\PROGRAMACION V\ProgV\Traduccion de codigo (funciones)\obj\Debug\net5.0\ref\Traduccion de codigo (funciones).dll
+C:\Users\alvar\OneDrive\Escritorio\Universidad Latina\MATERIAS CUATRIMESTRE 6\PROGRAMACION V\ProgV\Traduccion de codigo (funciones)\obj\Debug\net5.0\Traduccion de codigo (funciones).pdb
+C:\Users\alvar\OneDrive\Escritorio\Universidad Latina\MATERIAS CUATRIMESTRE 6\PROGRAMACION V\ProgV\Traduccion de codigo (funciones)\obj\Debug\net5.0\Traduccion de codigo (funciones).genruntimeconfig.cache
